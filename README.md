@@ -35,12 +35,13 @@ To begin, from the perspective of our first user, Barbie Doll, I access the user
 <img width="842" height="488" alt="Screenshot 2026-08-28 085151" src="https://github.com/user-attachments/assets/54ba1279-2e3c-44b0-8910-164428c750db" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Upon clicking "Open a New Ticket", I fill out the relevant information pertaining to the fabricated issue, and click "Create Ticket".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="843" height="988" alt="Screenshot 2026-08-28 085810" src="https://github.com/user-attachments/assets/9b0d2acf-a488-4879-b1dc-49fc504cf279" />
+<img width="838" height="489" alt="Screenshot 2026-08-28 085914" src="https://github.com/user-attachments/assets/5be9ac56-50a3-42e4-9747-60743f0aacfd" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
