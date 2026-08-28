@@ -79,12 +79,12 @@ Next the Admin, from the agent panel, put a message the ticket, letting Valerie 
 <img width="958" height="1264" alt="Screenshot 2026-08-28 120937" src="https://github.com/user-attachments/assets/dc878c95-4afd-42d0-9c93-2349236f4d42" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A quick switch over to Valerie's agent panel shows that now she can properly work the ticket
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" height="837" alt="Screenshot 2026-08-28 121340" src="https://github.com/user-attachments/assets/75192c7f-21a2-4563-8e78-115244cf61e9" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
