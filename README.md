@@ -88,6 +88,7 @@ A quick switch over to Valerie's agent panel shows that now she can properly wor
 </p>
 <p>
 From Valerie's perspective, she realizes that she is not qualified to handle this ticket. As such she would fix the information within the ticket and escalate it to Theresa, a SysAdmin.
+  
   1. The Priority Level should be "Emergency" rather than "Normal". This issue has practically shut the entire company down.
 
   <img width="647" height="256" alt="Screenshot 2026-08-28 122145" src="https://github.com/user-attachments/assets/9e3143fb-97a4-4a3f-adc6-5e1c5724f735" />
