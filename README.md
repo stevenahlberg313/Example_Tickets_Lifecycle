@@ -23,6 +23,11 @@ This project will document the lifecycle of two example issues. Please note that
 - Working the Issue
 - Resolution
 
+<h2>List of Simulated Issues for "Resolution"</h2>
+
+- From user: Barbie "The entire mobile/online banking system is down."
+- From user: Ken "The Accounting department needs Adobe upgrade."
+
 <h2>Lifecycle Stages</h2>
 
 <p>
