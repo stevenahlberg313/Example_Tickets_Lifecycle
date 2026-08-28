@@ -44,12 +44,13 @@ Upon clicking "Open a New Ticket", I fill out the relevant information pertainin
 <img width="838" height="489" alt="Screenshot 2026-08-28 085914" src="https://github.com/user-attachments/assets/5be9ac56-50a3-42e4-9747-60743f0aacfd" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To continue this simulation, I logged in as agent Valerie to observe the ticket. Note that Valerie has "Read only" permissions and is powerless to do anything more than leave notes on the ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="406" alt="Screenshot 2026-08-28 115034" src="https://github.com/user-attachments/assets/0910c788-9af4-4a87-8a14-2d6ca6752729" />
+<img width="960" height="1178" alt="Screenshot 2026-08-28 115546" src="https://github.com/user-attachments/assets/e9809ebe-38f6-454d-8902-fc70327a5929" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
