@@ -99,8 +99,8 @@ From Valerie's perspective, she realizes that she is not qualified to handle thi
 
 <img width="647" height="249" alt="Screenshot 2026-08-28 122233" src="https://github.com/user-attachments/assets/15f9b74d-a4bf-4ae6-b86f-22045e50db53" />
 
-<img width="646" height="276" alt="Screenshot 2026-08-28 122424" src="https://github.com/user-attachments/assets/0cf9c1bf-0dc5-4962-bce5-581135e5a32c" />
- 
+<img width="642" height="250" alt="Screenshot 2026-08-28 122247" src="https://github.com/user-attachments/assets/94468003-2596-4d64-b67c-ac2bfa7c20e4" />
+
   3.The help topic should be "Report a Problem/ Business Critical Outage" rather than "General Inquiry/ Other". This issue is too important to be categorized as a "General Inquiry".
 
 <img width="644" height="252" alt="Screenshot 2026-08-28 122311" src="https://github.com/user-attachments/assets/60743267-dc75-45be-983f-47140b7ebbe9" />
