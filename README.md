@@ -112,6 +112,17 @@ From Valerie's perspective, she realizes that she is not qualified to handle thi
 <img width="647" height="270" alt="Screenshot 2026-08-28 122415" src="https://github.com/user-attachments/assets/e78c8ad1-3672-437a-98fe-a4de4f19600b" />
 
 <img width="646" height="276" alt="Screenshot 2026-08-28 122424" src="https://github.com/user-attachments/assets/c3f2009d-adcd-423b-bcf1-580b90d5915b" />
+
+  5. This Ticket needs to be assigned to Theresa as she is a SysAdmin.
+
+<img width="651" height="291" alt="Screenshot 2026-08-28 122500" src="https://github.com/user-attachments/assets/66c368ff-9536-4448-8079-ebe05ca5ffa7" />
+
+<img width="643" height="286" alt="Screenshot 2026-08-28 122511" src="https://github.com/user-attachments/assets/e5dd2fc1-fd58-4c19-91a7-ed4f2681ee75" />
+
+With the corrections completed, the ticked looked like this.
+
+<img width="954" height="532" alt="Screenshot 2026-08-28 122538" src="https://github.com/user-attachments/assets/0a7a8147-4d47-4413-b7a7-4f96869f0dd1" />
+
 </p>
 <br />
 
